@@ -5,6 +5,7 @@
 ![Version](https://img.shields.io/badge/Version-0.1.0--alpha-purple)
 ![Status](https://img.shields.io/badge/Status-Recursive%20Expansion-violet)
 
+<img width="986" alt="image" src="https://github.com/user-attachments/assets/faa22f6f-38ba-4d8e-8610-756923465aef" />
 
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/47451957-c46b-4b2b-b1a1-c59d2a90ca78" />
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/f7f42832-7ccc-475a-b7fd-7fc0a2d1f97a" />
